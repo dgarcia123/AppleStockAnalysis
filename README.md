@@ -6,7 +6,7 @@ equally weighted, it does make sense that they are by default related to some ex
 <img width="1276" alt="image" src="https://github.com/dgarcia123/AppleStockAnalysis/assets/32852331/128ae264-1a69-4436-96f6-622f470d62f4">
 
 Near the conclusion, the end result was essentially a foundation that showed that based on the health performance of the stock, AAPL would be a comfortable hold long term despite 
-the possibility of some short term volatility that may occur. Additionally, if a stock option were to be purchased, based on the past week worth of data (Current Date 02/05/2024) then a strike price for a Call Option between $195 and $199 would be solid with an expiriation varying but ideally within the next few weeks.
+the possibility of some short term volatility that may occur. Additionally, if a stock option were to be purchased, based on the past week worth of data (Current Date 02/05/2024) then a strike price for a Call Option between $195 and $199 would be solid with an expiriation varying but ideally within the next few weeks. (Initially scoped 1 month for the chart, but updated to the past two weeks for a more recent view)
 <img width="638" alt="image" src="https://github.com/dgarcia123/AppleStockAnalysis/assets/32852331/0ebb92b4-3074-43db-850b-fd451fe0f7f8">
 
 Quick analysis to showcase the usage of Python and relevant libraries and datasets via Pandas and Yahoo Finance in an applicable financial setting.
