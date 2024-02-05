@@ -1,4 +1,4 @@
-# AppleStockAnalysis
+# Apple Stock Analysis
 Simple analysis of the AAPL Stock when compared to the S&amp;P 500 performance over the past year making use of Python, DataFrames, Pandas, and Yahoo Finance Data.
 
 Pulling the past year of data for the ticket SPY and AAPL shows a clear correlation but as noted in the notebook, since AAPL is a part of the S&P 500 and the companies within it are not
